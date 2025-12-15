@@ -1,11 +1,5 @@
 # 🌲 Multi-Class Classification with SHAP Explainability
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-V3.1.1-green?style=for-the-badge&logo=xgboost&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-orange?style=for-the-badge&logo=shap&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-
 ## 🎯 Project Objective
 The goal of this project is to build a robust multi-class classifier to predict forest cover types and interpret its predictions using SHAP (SHapley Additive exPlanations). This ensures not only high predictive performance but also transparency and trust in the model's decision-making process.
 
